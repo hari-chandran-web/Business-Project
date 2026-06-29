@@ -1,0 +1,651 @@
+customer_id,signup_date,city,country,region,segment,acquisition_channel
+C0001,2024-01-26,Bengaluru,India,South,Premium,Organic
+C0002,2024-04-14,Delhi,India,North,Family,Marketplace
+C0003,2025-08-27,Bengaluru,India,South,Family,Organic
+C0004,2024-08-26,Hyderabad,India,South,Family,Organic
+C0005,2025-10-27,Hyderabad,India,South,Premium,Paid Search
+C0006,2025-08-26,Montreal,Canada,Quebec,Young Professional,Referral
+C0007,2025-03-08,Delhi,India,North,Young Professional,Organic
+C0008,2024-04-14,Vancouver,Canada,British Columbia,Student,Organic
+C0009,2025-09-10,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0010,2025-07-03,Montreal,Canada,Quebec,Young Professional,Marketplace
+C0011,2025-07-19,Bengaluru,India,South,Young Professional,Social
+C0012,2025-08-14,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0013,2024-10-23,Hyderabad,India,South,Small Business,Referral
+C0014,2025-01-24,Bengaluru,India,South,Young Professional,Social
+C0015,2024-06-15,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0016,2025-10-25,Toronto,Canada,Ontario,Student,Social
+C0017,2024-06-16,Hyderabad,India,South,Family,Organic
+C0018,2024-11-28,Hyderabad,India,South,Premium,Referral
+C0019,2024-02-02,Hyderabad,India,South,Premium,Paid Search
+C0020,2024-08-04,Bengaluru,India,South,Small Business,Social
+C0021,2024-08-05,Vancouver,Canada,British Columbia,Family,Paid Search
+C0022,2024-05-26,Montreal,Canada,Quebec,Young Professional,Organic
+C0023,2025-08-21,Toronto,Canada,Ontario,Family,Social
+C0024,2024-08-12,Vancouver,Canada,British Columbia,Small Business,Organic
+C0025,2024-04-03,Montreal,Canada,Quebec,Premium,Referral
+C0026,2025-10-04,Delhi,India,North,Young Professional,Social
+C0027,2025-01-29,Bengaluru,India,South,Young Professional,Marketplace
+C0028,2025-07-20,Toronto,Canada,Ontario,Premium,Organic
+C0029,2025-07-03,Bengaluru,India,South,Premium,Referral
+C0030,2024-04-24,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0031,2024-09-26,Mumbai,India,West,Small Business,Referral
+C0032,2025-10-02,Bengaluru,India,South,Young Professional,Social
+C0033,2024-06-05,Hyderabad,India,South,Young Professional,Organic
+C0034,2025-09-05,Mumbai,India,West,Young Professional,Organic
+C0035,2024-11-10,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0036,2024-03-28,Bengaluru,India,South,Premium,Referral
+C0037,2024-05-11,Delhi,India,North,Family,Marketplace
+C0038,2024-09-28,Delhi,India,North,Family,Social
+C0039,2025-07-06,Hyderabad,India,South,Premium,Social
+C0040,2025-02-12,Toronto,Canada,Ontario,Small Business,Social
+C0041,2025-06-13,Montreal,Canada,Quebec,Family,Organic
+C0042,2024-12-12,Bengaluru,India,South,Student,Social
+C0043,2024-01-08,Hyderabad,India,South,Student,Social
+C0044,2024-03-10,Hyderabad,India,South,Small Business,Referral
+C0045,2025-06-10,Bengaluru,India,South,Young Professional,Social
+C0046,2025-07-06,Hyderabad,India,South,Young Professional,Marketplace
+C0047,2024-09-05,Montreal,Canada,Quebec,Premium,Referral
+C0048,2024-04-06,Hyderabad,India,South,Student,Paid Search
+C0049,2025-02-24,Calgary,Canada,Alberta,Family,Referral
+C0050,2024-03-03,Bengaluru,India,South,Young Professional,Paid Search
+C0051,2024-09-11,Bengaluru,India,South,Young Professional,Social
+C0052,2025-03-08,Delhi,India,North,Young Professional,Paid Search
+C0053,2025-03-29,Bengaluru,India,South,Premium,Referral
+C0054,2024-02-21,Bengaluru,India,South,Family,Social
+C0055,2024-04-05,Mumbai,India,West,Small Business,Referral
+C0056,2025-02-20,Delhi,India,North,Family,Organic
+C0057,2024-03-01,Calgary,Canada,Alberta,Young Professional,Organic
+C0058,2024-09-28,Calgary,Canada,Alberta,Small Business,Referral
+C0059,2025-03-09,Toronto,Canada,Ontario,Family,Referral
+C0060,2024-06-07,Montreal,Canada,Quebec,Young Professional,Organic
+C0061,2025-08-16,Mumbai,India,West,Premium,Organic
+C0062,2024-02-28,Vancouver,Canada,British Columbia,Student,Paid Search
+C0063,2024-02-28,Delhi,India,North,Small Business,Organic
+C0064,2024-03-11,Delhi,India,North,Family,Social
+C0065,2025-02-17,Hyderabad,India,South,Student,Marketplace
+C0066,2025-08-15,Hyderabad,India,South,Family,Social
+C0067,2025-11-04,Calgary,Canada,Alberta,Family,Social
+C0068,2024-07-28,Toronto,Canada,Ontario,Family,Paid Search
+C0069,2025-02-09,Toronto,Canada,Ontario,Young Professional,Social
+C0070,2024-11-19,Montreal,Canada,Quebec,Small Business,Marketplace
+C0071,2025-04-14,Mumbai,India,West,Family,Social
+C0072,2024-03-16,Bengaluru,India,South,Family,Paid Search
+C0073,2024-12-23,Delhi,India,North,Small Business,Referral
+C0074,2024-10-18,Vancouver,Canada,British Columbia,Young Professional,Referral
+C0075,2025-09-18,Toronto,Canada,Ontario,Small Business,Referral
+C0076,2025-07-21,Mumbai,India,West,Young Professional,Social
+C0077,2024-09-27,Delhi,India,North,Student,Organic
+C0078,2024-10-05,Delhi,India,North,Young Professional,Organic
+C0079,2024-07-27,Vancouver,Canada,British Columbia,Family,Referral
+C0080,2024-09-14,Montreal,Canada,Quebec,Small Business,Referral
+C0081,2025-10-11,Bengaluru,India,South,Family,Organic
+C0082,2024-12-07,Mumbai,India,West,Premium,Social
+C0083,2024-06-14,Toronto,Canada,Ontario,Premium,Social
+C0084,2025-07-28,Calgary,Canada,Alberta,Student,Organic
+C0085,2025-07-12,Delhi,India,North,Student,Paid Search
+C0086,2025-03-16,Delhi,India,North,Young Professional,Paid Search
+C0087,2025-01-01,Mumbai,India,West,Young Professional,Organic
+C0088,2024-12-28,Bengaluru,India,South,Premium,Marketplace
+C0089,2025-09-27,Calgary,Canada,Alberta,Premium,Marketplace
+C0090,2024-06-15,Hyderabad,India,South,Small Business,Referral
+C0091,2024-01-26,Calgary,Canada,Alberta,Young Professional,Marketplace
+C0092,2024-09-11,Calgary,Canada,Alberta,Young Professional,Referral
+C0093,2025-01-26,Bengaluru,India,South,Premium,Referral
+C0094,2024-07-23,Hyderabad,India,South,Premium,Paid Search
+C0095,2024-08-21,Toronto,Canada,Ontario,Young Professional,Social
+C0096,2024-12-02,Calgary,Canada,Alberta,Young Professional,Organic
+C0097,2024-12-25,Toronto,Canada,Ontario,Family,Paid Search
+C0098,2024-01-29,Vancouver,Canada,British Columbia,Student,Marketplace
+C0099,2025-08-17,Delhi,India,North,Small Business,Organic
+C0100,2025-09-02,Bengaluru,India,South,Family,Referral
+C0101,2025-03-22,Vancouver,Canada,British Columbia,Family,Paid Search
+C0102,2025-08-13,Calgary,Canada,Alberta,Young Professional,Organic
+C0103,2024-01-02,Calgary,Canada,Alberta,Family,Referral
+C0104,2025-01-07,Hyderabad,India,South,Family,Marketplace
+C0105,2025-09-30,Vancouver,Canada,British Columbia,Young Professional,Referral
+C0106,2025-06-03,Toronto,Canada,Ontario,Young Professional,Paid Search
+C0107,2024-10-29,Calgary,Canada,Alberta,Family,Organic
+C0108,2024-06-27,Calgary,Canada,Alberta,Family,Paid Search
+C0109,2024-11-07,Mumbai,India,West,Young Professional,Paid Search
+C0110,2025-04-21,Vancouver,Canada,British Columbia,Family,Social
+C0111,2024-06-22,Montreal,Canada,Quebec,Family,Paid Search
+C0112,2024-04-05,Vancouver,Canada,British Columbia,Premium,Referral
+C0113,2024-08-18,Toronto,Canada,Ontario,Premium,Organic
+C0114,2024-09-07,Mumbai,India,West,Small Business,Social
+C0115,2025-04-11,Bengaluru,India,South,Young Professional,Social
+C0116,2025-01-28,Hyderabad,India,South,Family,Organic
+C0117,2024-04-19,Mumbai,India,West,Premium,Organic
+C0118,2024-02-21,Montreal,Canada,Quebec,Family,Marketplace
+C0119,2025-04-12,Bengaluru,India,South,Young Professional,Paid Search
+C0120,2025-03-29,Vancouver,Canada,British Columbia,Family,Social
+C0121,2025-07-15,Calgary,Canada,Alberta,Family,Organic
+C0122,2025-04-05,Montreal,Canada,Quebec,Young Professional,Organic
+C0123,2025-06-17,Toronto,Canada,Ontario,Family,Organic
+C0124,2024-03-20,Montreal,Canada,Quebec,Premium,Organic
+C0125,2024-11-23,Vancouver,Canada,British Columbia,Small Business,Organic
+C0126,2024-08-24,Delhi,India,North,Young Professional,Organic
+C0127,2024-03-06,Hyderabad,India,South,Young Professional,Paid Search
+C0128,2025-03-01,Montreal,Canada,Quebec,Student,Referral
+C0129,2025-08-21,Calgary,Canada,Alberta,Small Business,Organic
+C0130,2025-05-03,Calgary,Canada,Alberta,Student,Paid Search
+C0131,2025-03-05,Calgary,Canada,Alberta,Family,Referral
+C0132,2025-05-14,Hyderabad,India,South,Young Professional,Paid Search
+C0133,2025-02-02,Mumbai,India,West,Young Professional,Social
+C0134,2024-06-18,Calgary,Canada,Alberta,Premium,Marketplace
+C0135,2025-02-07,Mumbai,India,West,Family,Social
+C0136,2025-10-20,Bengaluru,India,South,Family,Referral
+C0137,2024-02-21,Delhi,India,North,Young Professional,Paid Search
+C0138,2024-11-30,Montreal,Canada,Quebec,Young Professional,Referral
+C0139,2025-03-07,Toronto,Canada,Ontario,Young Professional,Organic
+C0140,2025-07-06,Mumbai,India,West,Student,Marketplace
+C0141,2025-10-27,Hyderabad,India,South,Student,Marketplace
+C0142,2024-02-01,Mumbai,India,West,Small Business,Organic
+C0143,2025-09-28,Mumbai,India,West,Young Professional,Organic
+C0144,2025-07-31,Bengaluru,India,South,Small Business,Paid Search
+C0145,2025-01-12,Toronto,Canada,Ontario,Young Professional,Social
+C0146,2024-06-16,Bengaluru,India,South,Small Business,Organic
+C0147,2024-11-15,Mumbai,India,West,Family,Marketplace
+C0148,2025-02-10,Calgary,Canada,Alberta,Small Business,Organic
+C0149,2024-04-14,Hyderabad,India,South,Family,Paid Search
+C0150,2025-08-02,Bengaluru,India,South,Premium,Paid Search
+C0151,2025-11-08,Calgary,Canada,Alberta,Young Professional,Paid Search
+C0152,2024-01-13,Vancouver,Canada,British Columbia,Premium,Referral
+C0153,2025-03-19,Bengaluru,India,South,Small Business,Social
+C0154,2024-06-05,Montreal,Canada,Quebec,Family,Referral
+C0155,2025-09-22,Toronto,Canada,Ontario,Premium,Social
+C0156,2025-04-21,Montreal,Canada,Quebec,Family,Referral
+C0157,2024-11-26,Toronto,Canada,Ontario,Premium,Referral
+C0158,2024-10-12,Bengaluru,India,South,Small Business,Organic
+C0159,2025-08-06,Montreal,Canada,Quebec,Family,Paid Search
+C0160,2025-05-21,Mumbai,India,West,Premium,Organic
+C0161,2024-12-29,Hyderabad,India,South,Premium,Paid Search
+C0162,2025-07-23,Toronto,Canada,Ontario,Student,Marketplace
+C0163,2024-09-04,Bengaluru,India,South,Premium,Paid Search
+C0164,2025-05-02,Hyderabad,India,South,Family,Paid Search
+C0165,2024-04-05,Mumbai,India,West,Young Professional,Paid Search
+C0166,2024-11-09,Hyderabad,India,South,Family,Paid Search
+C0167,2025-03-11,Vancouver,Canada,British Columbia,Small Business,Social
+C0168,2025-04-09,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0169,2024-07-16,Bengaluru,India,South,Young Professional,Referral
+C0170,2024-07-15,Delhi,India,North,Young Professional,Paid Search
+C0171,2024-04-12,Toronto,Canada,Ontario,Premium,Paid Search
+C0172,2024-07-02,Vancouver,Canada,British Columbia,Young Professional,Social
+C0173,2024-10-07,Delhi,India,North,Student,Organic
+C0174,2024-05-09,Toronto,Canada,Ontario,Family,Referral
+C0175,2024-01-13,Bengaluru,India,South,Family,Paid Search
+C0176,2024-12-14,Montreal,Canada,Quebec,Young Professional,Organic
+C0177,2024-04-26,Montreal,Canada,Quebec,Premium,Paid Search
+C0178,2025-08-13,Bengaluru,India,South,Family,Organic
+C0179,2025-07-30,Delhi,India,North,Small Business,Organic
+C0180,2024-05-01,Hyderabad,India,South,Family,Paid Search
+C0181,2025-06-19,Hyderabad,India,South,Young Professional,Marketplace
+C0182,2025-08-25,Toronto,Canada,Ontario,Small Business,Paid Search
+C0183,2025-09-16,Mumbai,India,West,Small Business,Organic
+C0184,2025-10-02,Hyderabad,India,South,Young Professional,Social
+C0185,2024-09-02,Delhi,India,North,Young Professional,Organic
+C0186,2025-02-22,Mumbai,India,West,Family,Social
+C0187,2024-02-03,Toronto,Canada,Ontario,Young Professional,Social
+C0188,2024-03-13,Montreal,Canada,Quebec,Family,Marketplace
+C0189,2025-03-11,Hyderabad,India,South,Student,Organic
+C0190,2024-09-29,Delhi,India,North,Premium,Organic
+C0191,2024-11-10,Delhi,India,North,Family,Referral
+C0192,2025-03-25,Toronto,Canada,Ontario,Young Professional,Social
+C0193,2024-10-05,Calgary,Canada,Alberta,Family,Paid Search
+C0194,2025-09-04,Bengaluru,India,South,Student,Paid Search
+C0195,2025-09-10,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0196,2024-10-02,Mumbai,India,West,Family,Referral
+C0197,2025-04-26,Delhi,India,North,Family,Paid Search
+C0198,2024-07-04,Toronto,Canada,Ontario,Small Business,Paid Search
+C0199,2024-04-03,Montreal,Canada,Quebec,Family,Paid Search
+C0200,2024-04-17,Vancouver,Canada,British Columbia,Premium,Paid Search
+C0201,2024-10-22,Montreal,Canada,Quebec,Family,Paid Search
+C0202,2025-04-10,Mumbai,India,West,Student,Organic
+C0203,2025-02-17,Bengaluru,India,South,Premium,Referral
+C0204,2025-11-04,Mumbai,India,West,Premium,Paid Search
+C0205,2024-07-11,Mumbai,India,West,Family,Social
+C0206,2025-10-02,Montreal,Canada,Quebec,Family,Organic
+C0207,2025-07-16,Toronto,Canada,Ontario,Young Professional,Paid Search
+C0208,2024-05-04,Montreal,Canada,Quebec,Student,Social
+C0209,2024-06-11,Hyderabad,India,South,Young Professional,Organic
+C0210,2024-04-05,Calgary,Canada,Alberta,Young Professional,Referral
+C0211,2025-04-17,Bengaluru,India,South,Small Business,Social
+C0212,2025-05-25,Delhi,India,North,Small Business,Paid Search
+C0213,2025-03-01,Toronto,Canada,Ontario,Premium,Marketplace
+C0214,2025-04-12,Hyderabad,India,South,Family,Paid Search
+C0215,2024-03-12,Delhi,India,North,Young Professional,Referral
+C0216,2024-12-14,Calgary,Canada,Alberta,Small Business,Paid Search
+C0217,2024-10-16,Mumbai,India,West,Premium,Referral
+C0218,2024-06-01,Montreal,Canada,Quebec,Family,Paid Search
+C0219,2025-07-19,Vancouver,Canada,British Columbia,Premium,Paid Search
+C0220,2024-07-12,Vancouver,Canada,British Columbia,Small Business,Organic
+C0221,2024-08-27,Calgary,Canada,Alberta,Premium,Paid Search
+C0222,2025-04-29,Vancouver,Canada,British Columbia,Premium,Referral
+C0223,2025-11-10,Calgary,Canada,Alberta,Premium,Social
+C0224,2025-05-22,Delhi,India,North,Small Business,Organic
+C0225,2024-04-12,Vancouver,Canada,British Columbia,Premium,Paid Search
+C0226,2024-01-16,Montreal,Canada,Quebec,Premium,Paid Search
+C0227,2024-03-17,Delhi,India,North,Family,Marketplace
+C0228,2025-09-30,Vancouver,Canada,British Columbia,Family,Social
+C0229,2025-06-30,Vancouver,Canada,British Columbia,Young Professional,Paid Search
+C0230,2025-07-08,Montreal,Canada,Quebec,Student,Organic
+C0231,2024-08-20,Toronto,Canada,Ontario,Premium,Paid Search
+C0232,2025-10-10,Bengaluru,India,South,Premium,Organic
+C0233,2024-11-02,Delhi,India,North,Small Business,Organic
+C0234,2024-10-27,Mumbai,India,West,Young Professional,Paid Search
+C0235,2025-06-27,Hyderabad,India,South,Young Professional,Social
+C0236,2024-06-23,Delhi,India,North,Young Professional,Social
+C0237,2025-09-26,Calgary,Canada,Alberta,Family,Paid Search
+C0238,2024-08-25,Delhi,India,North,Family,Organic
+C0239,2024-01-10,Toronto,Canada,Ontario,Small Business,Paid Search
+C0240,2025-07-13,Toronto,Canada,Ontario,Young Professional,Paid Search
+C0241,2025-08-24,Vancouver,Canada,British Columbia,Young Professional,Marketplace
+C0242,2025-04-12,Toronto,Canada,Ontario,Premium,Organic
+C0243,2025-05-09,Calgary,Canada,Alberta,Student,Paid Search
+C0244,2025-08-11,Vancouver,Canada,British Columbia,Young Professional,Social
+C0245,2025-11-05,Mumbai,India,West,Young Professional,Organic
+C0246,2025-09-12,Mumbai,India,West,Premium,Referral
+C0247,2024-08-23,Toronto,Canada,Ontario,Family,Paid Search
+C0248,2025-09-27,Hyderabad,India,South,Young Professional,Referral
+C0249,2025-10-05,Delhi,India,North,Student,Social
+C0250,2024-11-12,Mumbai,India,West,Premium,Organic
+C0251,2024-05-14,Vancouver,Canada,British Columbia,Student,Paid Search
+C0252,2024-06-28,Calgary,Canada,Alberta,Young Professional,Referral
+C0253,2025-06-27,Vancouver,Canada,British Columbia,Family,Organic
+C0254,2024-09-20,Delhi,India,North,Small Business,Marketplace
+C0255,2024-12-12,Toronto,Canada,Ontario,Premium,Paid Search
+C0256,2024-05-24,Bengaluru,India,South,Premium,Organic
+C0257,2025-07-24,Calgary,Canada,Alberta,Young Professional,Referral
+C0258,2024-09-27,Mumbai,India,West,Family,Paid Search
+C0259,2025-08-21,Toronto,Canada,Ontario,Young Professional,Social
+C0260,2024-04-20,Vancouver,Canada,British Columbia,Family,Paid Search
+C0261,2025-09-16,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0262,2024-11-05,Montreal,Canada,Quebec,Family,Organic
+C0263,2024-02-08,Mumbai,India,West,Young Professional,Paid Search
+C0264,2024-08-28,Bengaluru,India,South,Small Business,Organic
+C0265,2025-01-14,Montreal,Canada,Quebec,Family,Referral
+C0266,2025-08-24,Calgary,Canada,Alberta,Premium,Organic
+C0267,2025-11-01,Calgary,Canada,Alberta,Student,Paid Search
+C0268,2024-10-13,Calgary,Canada,Alberta,Student,Paid Search
+C0269,2025-03-31,Montreal,Canada,Quebec,Small Business,Referral
+C0270,2025-01-11,Bengaluru,India,South,Family,Marketplace
+C0271,2024-03-03,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0272,2025-04-10,Bengaluru,India,South,Student,Organic
+C0273,2024-02-21,Mumbai,India,West,Premium,Organic
+C0274,2025-08-01,Delhi,India,North,Young Professional,Referral
+C0275,2025-08-23,Hyderabad,India,South,Young Professional,Referral
+C0276,2024-05-31,Vancouver,Canada,British Columbia,Premium,Social
+C0277,2024-05-28,Toronto,Canada,Ontario,Small Business,Social
+C0278,2024-04-22,Delhi,India,North,Family,Organic
+C0279,2025-01-01,Mumbai,India,West,Premium,Organic
+C0280,2024-01-17,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0281,2025-06-22,Calgary,Canada,Alberta,Student,Organic
+C0282,2025-01-05,Montreal,Canada,Quebec,Family,Organic
+C0283,2025-09-21,Hyderabad,India,South,Student,Referral
+C0284,2025-04-14,Toronto,Canada,Ontario,Family,Organic
+C0285,2025-02-15,Montreal,Canada,Quebec,Family,Organic
+C0286,2024-03-16,Montreal,Canada,Quebec,Small Business,Paid Search
+C0287,2024-03-08,Delhi,India,North,Young Professional,Social
+C0288,2025-01-25,Vancouver,Canada,British Columbia,Small Business,Social
+C0289,2025-06-01,Montreal,Canada,Quebec,Family,Organic
+C0290,2025-11-01,Bengaluru,India,South,Family,Referral
+C0291,2025-03-16,Hyderabad,India,South,Family,Organic
+C0292,2025-04-09,Vancouver,Canada,British Columbia,Young Professional,Referral
+C0293,2025-03-13,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0294,2025-04-30,Delhi,India,North,Student,Referral
+C0295,2025-03-18,Bengaluru,India,South,Student,Referral
+C0296,2025-07-23,Delhi,India,North,Student,Marketplace
+C0297,2024-05-05,Vancouver,Canada,British Columbia,Young Professional,Referral
+C0298,2024-02-22,Calgary,Canada,Alberta,Small Business,Social
+C0299,2024-04-16,Vancouver,Canada,British Columbia,Family,Organic
+C0300,2024-08-17,Montreal,Canada,Quebec,Premium,Paid Search
+C0301,2024-04-27,Vancouver,Canada,British Columbia,Premium,Social
+C0302,2025-07-28,Calgary,Canada,Alberta,Small Business,Referral
+C0303,2025-09-15,Mumbai,India,West,Small Business,Referral
+C0304,2024-01-30,Toronto,Canada,Ontario,Young Professional,Social
+C0305,2024-12-13,Toronto,Canada,Ontario,Young Professional,Organic
+C0306,2025-08-02,Delhi,India,North,Family,Organic
+C0307,2024-04-03,Mumbai,India,West,Premium,Organic
+C0308,2025-04-09,Calgary,Canada,Alberta,Young Professional,Paid Search
+C0309,2025-08-04,Vancouver,Canada,British Columbia,Family,Marketplace
+C0310,2024-06-10,Delhi,India,North,Premium,Organic
+C0311,2024-10-05,Bengaluru,India,South,Family,Paid Search
+C0312,2025-02-28,Montreal,Canada,Quebec,Young Professional,Referral
+C0313,2024-12-19,Bengaluru,India,South,Family,Paid Search
+C0314,2025-06-23,Montreal,Canada,Quebec,Family,Organic
+C0315,2025-09-05,Calgary,Canada,Alberta,Student,Organic
+C0316,2024-05-20,Hyderabad,India,South,Premium,Paid Search
+C0317,2024-01-08,Bengaluru,India,South,Family,Paid Search
+C0318,2025-01-24,Delhi,India,North,Family,Organic
+C0319,2024-03-14,Vancouver,Canada,British Columbia,Young Professional,Referral
+C0320,2024-01-20,Calgary,Canada,Alberta,Family,Organic
+C0321,2025-08-12,Vancouver,Canada,British Columbia,Family,Paid Search
+C0322,2024-10-23,Calgary,Canada,Alberta,Student,Organic
+C0323,2024-06-24,Vancouver,Canada,British Columbia,Premium,Social
+C0324,2024-03-31,Vancouver,Canada,British Columbia,Family,Organic
+C0325,2025-08-26,Calgary,Canada,Alberta,Young Professional,Organic
+C0326,2024-12-13,Toronto,Canada,Ontario,Young Professional,Referral
+C0327,2025-06-06,Bengaluru,India,South,Family,Social
+C0328,2024-12-23,Hyderabad,India,South,Young Professional,Marketplace
+C0329,2024-08-29,Delhi,India,North,Student,Organic
+C0330,2025-09-08,Delhi,India,North,Young Professional,Referral
+C0331,2024-06-30,Bengaluru,India,South,Small Business,Social
+C0332,2025-07-31,Montreal,Canada,Quebec,Premium,Paid Search
+C0333,2025-10-04,Vancouver,Canada,British Columbia,Young Professional,Paid Search
+C0334,2025-03-28,Montreal,Canada,Quebec,Family,Referral
+C0335,2024-12-26,Mumbai,India,West,Family,Paid Search
+C0336,2024-02-08,Montreal,Canada,Quebec,Student,Referral
+C0337,2025-10-22,Bengaluru,India,South,Premium,Referral
+C0338,2025-04-18,Calgary,Canada,Alberta,Family,Marketplace
+C0339,2025-04-05,Mumbai,India,West,Small Business,Social
+C0340,2024-11-25,Hyderabad,India,South,Family,Paid Search
+C0341,2025-04-06,Mumbai,India,West,Student,Marketplace
+C0342,2024-03-27,Vancouver,Canada,British Columbia,Family,Organic
+C0343,2025-03-24,Hyderabad,India,South,Small Business,Social
+C0344,2025-01-07,Delhi,India,North,Young Professional,Paid Search
+C0345,2024-12-12,Calgary,Canada,Alberta,Family,Organic
+C0346,2024-03-08,Vancouver,Canada,British Columbia,Young Professional,Social
+C0347,2024-10-17,Calgary,Canada,Alberta,Young Professional,Referral
+C0348,2024-12-07,Delhi,India,North,Student,Social
+C0349,2024-11-13,Vancouver,Canada,British Columbia,Small Business,Social
+C0350,2024-05-12,Calgary,Canada,Alberta,Family,Marketplace
+C0351,2025-07-26,Toronto,Canada,Ontario,Young Professional,Referral
+C0352,2025-06-23,Delhi,India,North,Student,Social
+C0353,2024-01-19,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0354,2024-12-15,Hyderabad,India,South,Small Business,Paid Search
+C0355,2024-05-20,Hyderabad,India,South,Young Professional,Paid Search
+C0356,2025-06-03,Bengaluru,India,South,Premium,Referral
+C0357,2025-11-08,Mumbai,India,West,Young Professional,Referral
+C0358,2025-09-03,Delhi,India,North,Young Professional,Organic
+C0359,2025-03-24,Delhi,India,North,Student,Paid Search
+C0360,2025-03-30,Hyderabad,India,South,Family,Referral
+C0361,2024-08-27,Montreal,Canada,Quebec,Family,Paid Search
+C0362,2024-07-17,Montreal,Canada,Quebec,Young Professional,Marketplace
+C0363,2025-04-17,Montreal,Canada,Quebec,Premium,Referral
+C0364,2024-06-14,Calgary,Canada,Alberta,Premium,Referral
+C0365,2024-09-13,Delhi,India,North,Student,Paid Search
+C0366,2025-07-21,Vancouver,Canada,British Columbia,Small Business,Social
+C0367,2024-10-18,Bengaluru,India,South,Student,Organic
+C0368,2025-06-09,Montreal,Canada,Quebec,Young Professional,Paid Search
+C0369,2025-04-06,Hyderabad,India,South,Small Business,Marketplace
+C0370,2024-02-24,Calgary,Canada,Alberta,Young Professional,Paid Search
+C0371,2024-03-24,Calgary,Canada,Alberta,Young Professional,Organic
+C0372,2025-10-27,Bengaluru,India,South,Young Professional,Organic
+C0373,2024-10-20,Mumbai,India,West,Small Business,Paid Search
+C0374,2025-04-25,Delhi,India,North,Family,Organic
+C0375,2024-01-20,Bengaluru,India,South,Young Professional,Referral
+C0376,2024-04-23,Calgary,Canada,Alberta,Premium,Organic
+C0377,2024-02-18,Bengaluru,India,South,Young Professional,Social
+C0378,2024-03-05,Montreal,Canada,Quebec,Student,Marketplace
+C0379,2025-10-09,Mumbai,India,West,Family,Organic
+C0380,2024-10-25,Delhi,India,North,Family,Social
+C0381,2025-08-07,Hyderabad,India,South,Young Professional,Social
+C0382,2025-06-20,Bengaluru,India,South,Small Business,Organic
+C0383,2025-02-03,Mumbai,India,West,Premium,Organic
+C0384,2025-01-17,Calgary,Canada,Alberta,Young Professional,Organic
+C0385,2024-12-19,Bengaluru,India,South,Young Professional,Social
+C0386,2025-08-18,Bengaluru,India,South,Premium,Paid Search
+C0387,2024-12-26,Mumbai,India,West,Family,Referral
+C0388,2025-04-20,Delhi,India,North,Small Business,Paid Search
+C0389,2024-05-18,Delhi,India,North,Student,Referral
+C0390,2024-02-07,Montreal,Canada,Quebec,Young Professional,Organic
+C0391,2024-02-12,Hyderabad,India,South,Young Professional,Paid Search
+C0392,2025-07-10,Calgary,Canada,Alberta,Family,Organic
+C0393,2024-10-19,Hyderabad,India,South,Young Professional,Referral
+C0394,2024-10-06,Vancouver,Canada,British Columbia,Young Professional,Paid Search
+C0395,2025-03-26,Calgary,Canada,Alberta,Small Business,Paid Search
+C0396,2025-05-23,Delhi,India,North,Family,Paid Search
+C0397,2024-03-25,Toronto,Canada,Ontario,Premium,Organic
+C0398,2025-07-12,Delhi,India,North,Young Professional,Organic
+C0399,2025-11-07,Vancouver,Canada,British Columbia,Young Professional,Paid Search
+C0400,2024-06-19,Calgary,Canada,Alberta,Family,Paid Search
+C0401,2024-12-27,Mumbai,India,West,Family,Paid Search
+C0402,2024-03-17,Mumbai,India,West,Family,Paid Search
+C0403,2024-02-01,Delhi,India,North,Young Professional,Social
+C0404,2024-02-05,Montreal,Canada,Quebec,Young Professional,Organic
+C0405,2025-01-05,Vancouver,Canada,British Columbia,Young Professional,Social
+C0406,2025-04-05,Delhi,India,North,Small Business,Paid Search
+C0407,2025-08-10,Bengaluru,India,South,Young Professional,Paid Search
+C0408,2025-10-27,Vancouver,Canada,British Columbia,Young Professional,Marketplace
+C0409,2024-07-09,Mumbai,India,West,Family,Paid Search
+C0410,2024-09-25,Bengaluru,India,South,Premium,Social
+C0411,2025-09-18,Hyderabad,India,South,Young Professional,Marketplace
+C0412,2024-07-23,Montreal,Canada,Quebec,Young Professional,Referral
+C0413,2024-06-25,Montreal,Canada,Quebec,Small Business,Paid Search
+C0414,2024-11-23,Bengaluru,India,South,Family,Social
+C0415,2024-11-03,Toronto,Canada,Ontario,Premium,Social
+C0416,2025-01-05,Delhi,India,North,Family,Organic
+C0417,2024-05-22,Hyderabad,India,South,Young Professional,Paid Search
+C0418,2025-07-21,Vancouver,Canada,British Columbia,Family,Paid Search
+C0419,2025-09-18,Delhi,India,North,Small Business,Organic
+C0420,2025-05-05,Calgary,Canada,Alberta,Family,Referral
+C0421,2024-05-08,Bengaluru,India,South,Small Business,Social
+C0422,2025-04-22,Montreal,Canada,Quebec,Family,Paid Search
+C0423,2024-05-12,Delhi,India,North,Family,Marketplace
+C0424,2024-05-07,Mumbai,India,West,Family,Paid Search
+C0425,2024-11-26,Delhi,India,North,Small Business,Organic
+C0426,2024-03-21,Toronto,Canada,Ontario,Young Professional,Social
+C0427,2024-05-08,Toronto,Canada,Ontario,Family,Social
+C0428,2025-05-29,Bengaluru,India,South,Family,Social
+C0429,2024-06-24,Delhi,India,North,Family,Referral
+C0430,2025-07-31,Vancouver,Canada,British Columbia,Student,Referral
+C0431,2024-02-16,Bengaluru,India,South,Small Business,Referral
+C0432,2025-10-28,Toronto,Canada,Ontario,Young Professional,Social
+C0433,2025-05-24,Mumbai,India,West,Small Business,Social
+C0434,2025-05-09,Toronto,Canada,Ontario,Young Professional,Referral
+C0435,2024-10-31,Calgary,Canada,Alberta,Family,Social
+C0436,2025-03-26,Delhi,India,North,Young Professional,Paid Search
+C0437,2025-09-13,Vancouver,Canada,British Columbia,Young Professional,Referral
+C0438,2024-12-19,Vancouver,Canada,British Columbia,Small Business,Organic
+C0439,2025-06-11,Vancouver,Canada,British Columbia,Family,Paid Search
+C0440,2024-05-05,Montreal,Canada,Quebec,Young Professional,Organic
+C0441,2024-02-21,Bengaluru,India,South,Young Professional,Paid Search
+C0442,2024-09-11,Calgary,Canada,Alberta,Small Business,Marketplace
+C0443,2025-08-14,Vancouver,Canada,British Columbia,Premium,Organic
+C0444,2025-05-25,Delhi,India,North,Small Business,Paid Search
+C0445,2025-05-24,Toronto,Canada,Ontario,Student,Marketplace
+C0446,2024-09-03,Montreal,Canada,Quebec,Young Professional,Paid Search
+C0447,2024-10-15,Mumbai,India,West,Family,Marketplace
+C0448,2024-10-19,Montreal,Canada,Quebec,Family,Referral
+C0449,2024-05-17,Calgary,Canada,Alberta,Small Business,Referral
+C0450,2025-01-09,Calgary,Canada,Alberta,Student,Organic
+C0451,2025-01-06,Hyderabad,India,South,Family,Organic
+C0452,2025-07-17,Montreal,Canada,Quebec,Young Professional,Marketplace
+C0453,2024-05-11,Bengaluru,India,South,Small Business,Paid Search
+C0454,2025-07-25,Vancouver,Canada,British Columbia,Small Business,Referral
+C0455,2025-09-08,Hyderabad,India,South,Family,Paid Search
+C0456,2024-02-09,Mumbai,India,West,Young Professional,Paid Search
+C0457,2025-06-15,Montreal,Canada,Quebec,Family,Social
+C0458,2024-12-01,Delhi,India,North,Small Business,Paid Search
+C0459,2025-09-23,Calgary,Canada,Alberta,Premium,Paid Search
+C0460,2025-06-03,Vancouver,Canada,British Columbia,Premium,Social
+C0461,2025-05-01,Toronto,Canada,Ontario,Premium,Paid Search
+C0462,2025-03-02,Bengaluru,India,South,Family,Referral
+C0463,2025-09-03,Mumbai,India,West,Family,Marketplace
+C0464,2024-02-22,Hyderabad,India,South,Family,Organic
+C0465,2024-05-31,Calgary,Canada,Alberta,Premium,Organic
+C0466,2024-07-14,Bengaluru,India,South,Student,Paid Search
+C0467,2025-02-26,Delhi,India,North,Family,Paid Search
+C0468,2024-03-04,Montreal,Canada,Quebec,Premium,Paid Search
+C0469,2025-11-09,Vancouver,Canada,British Columbia,Family,Paid Search
+C0470,2025-04-15,Delhi,India,North,Small Business,Paid Search
+C0471,2025-10-20,Vancouver,Canada,British Columbia,Premium,Organic
+C0472,2024-07-15,Montreal,Canada,Quebec,Small Business,Organic
+C0473,2024-08-18,Toronto,Canada,Ontario,Small Business,Marketplace
+C0474,2024-07-31,Toronto,Canada,Ontario,Family,Paid Search
+C0475,2024-12-23,Montreal,Canada,Quebec,Family,Marketplace
+C0476,2024-10-21,Toronto,Canada,Ontario,Young Professional,Social
+C0477,2025-02-08,Calgary,Canada,Alberta,Premium,Marketplace
+C0478,2024-10-24,Delhi,India,North,Student,Marketplace
+C0479,2024-12-20,Bengaluru,India,South,Small Business,Social
+C0480,2024-08-07,Montreal,Canada,Quebec,Young Professional,Social
+C0481,2024-05-20,Toronto,Canada,Ontario,Student,Referral
+C0482,2024-09-05,Hyderabad,India,South,Student,Marketplace
+C0483,2025-10-15,Hyderabad,India,South,Young Professional,Organic
+C0484,2025-04-28,Vancouver,Canada,British Columbia,Student,Referral
+C0485,2025-07-17,Mumbai,India,West,Small Business,Organic
+C0486,2025-05-03,Montreal,Canada,Quebec,Family,Referral
+C0487,2024-11-24,Toronto,Canada,Ontario,Young Professional,Organic
+C0488,2025-10-29,Bengaluru,India,South,Family,Social
+C0489,2024-06-28,Mumbai,India,West,Young Professional,Referral
+C0490,2025-02-10,Mumbai,India,West,Premium,Organic
+C0491,2024-02-08,Toronto,Canada,Ontario,Student,Social
+C0492,2024-12-09,Bengaluru,India,South,Young Professional,Marketplace
+C0493,2024-05-17,Montreal,Canada,Quebec,Premium,Paid Search
+C0494,2024-04-25,Hyderabad,India,South,Young Professional,Referral
+C0495,2024-07-09,Toronto,Canada,Ontario,Student,Paid Search
+C0496,2025-08-04,Toronto,Canada,Ontario,Family,Organic
+C0497,2025-03-13,Calgary,Canada,Alberta,Family,Organic
+C0498,2024-07-08,Bengaluru,India,South,Small Business,Paid Search
+C0499,2024-01-07,Hyderabad,India,South,Young Professional,Organic
+C0500,2024-12-03,Toronto,Canada,Ontario,Young Professional,Referral
+C0501,2024-09-24,Mumbai,India,West,Family,Social
+C0502,2024-05-01,Mumbai,India,West,Family,Organic
+C0503,2024-04-30,Toronto,Canada,Ontario,Family,Marketplace
+C0504,2025-09-21,Vancouver,Canada,British Columbia,Young Professional,Marketplace
+C0505,2024-06-05,Montreal,Canada,Quebec,Family,Marketplace
+C0506,2025-03-01,Vancouver,Canada,British Columbia,Premium,Marketplace
+C0507,2024-09-10,Hyderabad,India,South,Family,Social
+C0508,2025-06-22,Bengaluru,India,South,Family,Social
+C0509,2025-07-31,Bengaluru,India,South,Student,Referral
+C0510,2025-08-09,Hyderabad,India,South,Family,Organic
+C0511,2024-04-29,Montreal,Canada,Quebec,Family,Social
+C0512,2024-04-03,Montreal,Canada,Quebec,Small Business,Paid Search
+C0513,2025-04-09,Mumbai,India,West,Young Professional,Paid Search
+C0514,2025-07-26,Mumbai,India,West,Family,Referral
+C0515,2025-02-09,Mumbai,India,West,Young Professional,Organic
+C0516,2025-08-15,Hyderabad,India,South,Student,Paid Search
+C0517,2025-07-08,Bengaluru,India,South,Small Business,Marketplace
+C0518,2025-04-28,Bengaluru,India,South,Student,Paid Search
+C0519,2025-10-18,Delhi,India,North,Small Business,Social
+C0520,2025-01-18,Calgary,Canada,Alberta,Small Business,Paid Search
+C0521,2025-01-19,Calgary,Canada,Alberta,Student,Marketplace
+C0522,2025-10-31,Delhi,India,North,Premium,Organic
+C0523,2025-06-25,Calgary,Canada,Alberta,Young Professional,Marketplace
+C0524,2024-01-24,Mumbai,India,West,Small Business,Paid Search
+C0525,2025-06-28,Calgary,Canada,Alberta,Young Professional,Organic
+C0526,2024-12-20,Montreal,Canada,Quebec,Young Professional,Organic
+C0527,2024-02-02,Bengaluru,India,South,Premium,Paid Search
+C0528,2024-09-03,Mumbai,India,West,Young Professional,Organic
+C0529,2025-04-02,Mumbai,India,West,Family,Social
+C0530,2024-09-07,Mumbai,India,West,Premium,Paid Search
+C0531,2025-07-06,Hyderabad,India,South,Young Professional,Referral
+C0532,2024-05-23,Mumbai,India,West,Family,Paid Search
+C0533,2025-08-14,Vancouver,Canada,British Columbia,Family,Social
+C0534,2024-08-30,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0535,2025-02-27,Hyderabad,India,South,Young Professional,Organic
+C0536,2025-10-03,Delhi,India,North,Family,Social
+C0537,2024-12-18,Mumbai,India,West,Small Business,Social
+C0538,2025-03-02,Vancouver,Canada,British Columbia,Young Professional,Paid Search
+C0539,2025-07-04,Delhi,India,North,Family,Referral
+C0540,2024-05-27,Toronto,Canada,Ontario,Premium,Marketplace
+C0541,2025-03-02,Calgary,Canada,Alberta,Family,Organic
+C0542,2024-09-18,Hyderabad,India,South,Young Professional,Social
+C0543,2025-01-14,Montreal,Canada,Quebec,Student,Referral
+C0544,2024-02-22,Hyderabad,India,South,Young Professional,Social
+C0545,2024-03-15,Mumbai,India,West,Young Professional,Referral
+C0546,2025-05-05,Hyderabad,India,South,Young Professional,Marketplace
+C0547,2024-01-16,Toronto,Canada,Ontario,Young Professional,Organic
+C0548,2025-05-05,Bengaluru,India,South,Small Business,Social
+C0549,2025-02-10,Hyderabad,India,South,Small Business,Social
+C0550,2025-01-24,Toronto,Canada,Ontario,Family,Social
+C0551,2024-09-24,Toronto,Canada,Ontario,Young Professional,Marketplace
+C0552,2024-04-10,Montreal,Canada,Quebec,Premium,Referral
+C0553,2024-07-27,Vancouver,Canada,British Columbia,Young Professional,Paid Search
+C0554,2024-05-29,Hyderabad,India,South,Student,Social
+C0555,2024-10-29,Calgary,Canada,Alberta,Young Professional,Paid Search
+C0556,2025-08-06,Calgary,Canada,Alberta,Premium,Paid Search
+C0557,2024-09-20,Vancouver,Canada,British Columbia,Premium,Paid Search
+C0558,2025-04-16,Montreal,Canada,Quebec,Young Professional,Referral
+C0559,2024-05-23,Delhi,India,North,Premium,Paid Search
+C0560,2025-06-20,Mumbai,India,West,Student,Referral
+C0561,2024-01-07,Mumbai,India,West,Young Professional,Referral
+C0562,2024-03-10,Hyderabad,India,South,Premium,Organic
+C0563,2025-01-17,Montreal,Canada,Quebec,Student,Social
+C0564,2025-11-06,Montreal,Canada,Quebec,Family,Organic
+C0565,2024-01-13,Calgary,Canada,Alberta,Student,Referral
+C0566,2024-01-18,Toronto,Canada,Ontario,Family,Social
+C0567,2024-07-02,Calgary,Canada,Alberta,Student,Organic
+C0568,2024-09-03,Delhi,India,North,Young Professional,Social
+C0569,2024-09-30,Vancouver,Canada,British Columbia,Premium,Organic
+C0570,2025-04-15,Calgary,Canada,Alberta,Family,Marketplace
+C0571,2024-11-03,Hyderabad,India,South,Family,Referral
+C0572,2024-04-05,Mumbai,India,West,Young Professional,Paid Search
+C0573,2024-02-27,Montreal,Canada,Quebec,Family,Social
+C0574,2025-05-26,Bengaluru,India,South,Premium,Social
+C0575,2025-08-02,Vancouver,Canada,British Columbia,Small Business,Marketplace
+C0576,2024-08-23,Mumbai,India,West,Young Professional,Referral
+C0577,2024-10-04,Montreal,Canada,Quebec,Student,Organic
+C0578,2025-07-10,Toronto,Canada,Ontario,Family,Organic
+C0579,2024-01-17,Vancouver,Canada,British Columbia,Small Business,Social
+C0580,2024-03-19,Calgary,Canada,Alberta,Young Professional,Social
+C0581,2025-07-07,Calgary,Canada,Alberta,Young Professional,Referral
+C0582,2024-03-21,Delhi,India,North,Family,Marketplace
+C0583,2024-04-10,Mumbai,India,West,Family,Referral
+C0584,2025-09-11,Vancouver,Canada,British Columbia,Premium,Marketplace
+C0585,2024-11-30,Calgary,Canada,Alberta,Student,Organic
+C0586,2025-05-17,Montreal,Canada,Quebec,Young Professional,Social
+C0587,2025-03-18,Calgary,Canada,Alberta,Young Professional,Social
+C0588,2024-03-28,Calgary,Canada,Alberta,Premium,Paid Search
+C0589,2024-03-16,Hyderabad,India,South,Student,Organic
+C0590,2025-02-02,Delhi,India,North,Young Professional,Organic
+C0591,2024-11-11,Mumbai,India,West,Family,Referral
+C0592,2024-05-15,Bengaluru,India,South,Student,Paid Search
+C0593,2024-04-15,Calgary,Canada,Alberta,Student,Paid Search
+C0594,2025-09-03,Bengaluru,India,South,Family,Paid Search
+C0595,2024-01-13,Calgary,Canada,Alberta,Young Professional,Paid Search
+C0596,2025-07-26,Bengaluru,India,South,Small Business,Marketplace
+C0597,2025-01-24,Delhi,India,North,Young Professional,Organic
+C0598,2025-05-19,Toronto,Canada,Ontario,Young Professional,Organic
+C0599,2025-03-07,Toronto,Canada,Ontario,Young Professional,Referral
+C0600,2024-09-14,Vancouver,Canada,British Columbia,Small Business,Referral
+C0601,2025-08-31,Montreal,Canada,Quebec,Family,Paid Search
+C0602,2024-11-07,Delhi,India,North,Student,Paid Search
+C0603,2024-12-03,Calgary,Canada,Alberta,Family,Paid Search
+C0604,2024-11-03,Delhi,India,North,Young Professional,Marketplace
+C0605,2025-05-05,Hyderabad,India,South,Young Professional,Marketplace
+C0606,2024-10-25,Vancouver,Canada,British Columbia,Premium,Social
+C0607,2024-11-29,Hyderabad,India,South,Young Professional,Referral
+C0608,2025-01-08,Calgary,Canada,Alberta,Student,Social
+C0609,2025-07-17,Delhi,India,North,Student,Referral
+C0610,2025-03-24,Hyderabad,India,South,Premium,Referral
+C0611,2025-02-22,Bengaluru,India,South,Family,Organic
+C0612,2024-09-04,Toronto,Canada,Ontario,Young Professional,Organic
+C0613,2025-01-21,Calgary,Canada,Alberta,Student,Marketplace
+C0614,2025-08-19,Montreal,Canada,Quebec,Young Professional,Paid Search
+C0615,2025-07-10,Calgary,Canada,Alberta,Student,Marketplace
+C0616,2024-04-21,Bengaluru,India,South,Premium,Social
+C0617,2024-06-19,Vancouver,Canada,British Columbia,Family,Organic
+C0618,2024-12-05,Calgary,Canada,Alberta,Small Business,Paid Search
+C0619,2024-04-10,Mumbai,India,West,Young Professional,Paid Search
+C0620,2025-04-01,Hyderabad,India,South,Young Professional,Paid Search
+C0621,2024-12-19,Delhi,India,North,Small Business,Paid Search
+C0622,2025-03-01,Toronto,Canada,Ontario,Small Business,Organic
+C0623,2024-12-22,Delhi,India,North,Young Professional,Paid Search
+C0624,2025-06-17,Hyderabad,India,South,Family,Paid Search
+C0625,2025-04-08,Montreal,Canada,Quebec,Young Professional,Paid Search
+C0626,2024-01-24,Bengaluru,India,South,Premium,Social
+C0627,2024-09-06,Delhi,India,North,Family,Social
+C0628,2025-07-27,Vancouver,Canada,British Columbia,Family,Paid Search
+C0629,2025-10-06,Calgary,Canada,Alberta,Young Professional,Social
+C0630,2025-02-09,Calgary,Canada,Alberta,Student,Social
+C0631,2025-04-05,Hyderabad,India,South,Family,Paid Search
+C0632,2024-07-29,Hyderabad,India,South,Young Professional,Social
+C0633,2025-08-14,Bengaluru,India,South,Student,Referral
+C0634,2025-01-09,Delhi,India,North,Young Professional,Paid Search
+C0635,2025-05-16,Toronto,Canada,Ontario,Family,Social
+C0636,2025-09-17,Calgary,Canada,Alberta,Young Professional,Organic
+C0637,2025-04-13,Vancouver,Canada,British Columbia,Family,Referral
+C0638,2025-09-21,Toronto,Canada,Ontario,Family,Social
+C0639,2024-04-30,Vancouver,Canada,British Columbia,Young Professional,Organic
+C0640,2024-05-24,Vancouver,Canada,British Columbia,Family,Paid Search
+C0641,2025-08-11,Delhi,India,North,Young Professional,Organic
+C0642,2025-07-22,Delhi,India,North,Young Professional,Paid Search
+C0643,2024-11-18,Delhi,India,North,Premium,Social
+C0644,2024-01-10,Vancouver,Canada,British Columbia,Family,Organic
+C0645,2025-07-29,Calgary,Canada,Alberta,Family,Paid Search
+C0646,2025-03-01,Montreal,Canada,Quebec,Premium,Paid Search
+C0647,2024-03-25,Delhi,India,North,Family,Referral
+C0648,2024-10-26,Hyderabad,India,South,Student,Organic
+C0649,2024-06-21,Toronto,Canada,Ontario,Premium,Social
+C0650,2025-07-16,Montreal,Canada,Quebec,Family,Social

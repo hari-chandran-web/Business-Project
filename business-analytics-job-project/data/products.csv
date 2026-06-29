@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_cost_inr,list_price_inr,supplier_country
+P001,Wireless Earbuds,Electronics,1450,2999,China
+P002,Smart Watch,Electronics,2600,5499,China
+P003,Office Chair,Furniture,4200,7999,India
+P004,Standing Desk,Furniture,8700,15999,Canada
+P005,Running Shoes,Fashion,1650,3999,Vietnam
+P006,Winter Jacket,Fashion,3200,8999,Canada
+P007,Coffee Maker,Home,2100,4999,India
+P008,Air Fryer,Home,3100,6999,China
+P009,Notebook Pack,Stationery,120,399,India
+P010,Laptop Backpack,Accessories,850,2199,India
+P011,Yoga Mat,Fitness,450,1299,India
+P012,Protein Shaker,Fitness,180,599,India

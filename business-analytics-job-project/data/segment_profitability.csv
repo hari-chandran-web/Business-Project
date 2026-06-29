@@ -1,0 +1,11 @@
+country,segment,orders,revenue_inr,gross_profit_inr,gross_margin_pct
+Canada,Family,547,4037988.2,1798759.2,44.55
+Canada,Premium,326,2691458.95,1196786.95,44.47
+Canada,Small Business,233,1584637.6,711037.6,44.87
+Canada,Student,237,1714216.85,774705.85,45.19
+Canada,Young Professional,653,4605823.9,2000190.9,43.43
+India,Family,635,4707929.25,2161433.25,45.91
+India,Premium,318,2301962.4,1074911.4,46.7
+India,Small Business,336,2549824.3,1156131.3,45.34
+India,Student,257,2016351.0,900961.0,44.68
+India,Young Professional,658,4566933.5,2126755.5,46.57
